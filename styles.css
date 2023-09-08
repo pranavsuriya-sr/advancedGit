@@ -1,0 +1,10 @@
+.alert
+{
+    width: 100%;
+    background-color: green;
+    display: none;
+}
+body
+{
+    background-color: blueviolet;
+}
